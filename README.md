@@ -1,56 +1,59 @@
-# Gaofumei — Official Website and Public Resources
+# Gaofumei — Articles, Information & Knowledge Resources
 
-Official website: **[https://www.gaofumei.net/](https://www.gaofumei.net/)**
+**Official website:** [https://www.gaofumei.net/](https://www.gaofumei.net/)
 
-This repository provides a public reference for the Gaofumei website and organizes related public documentation and resources.
+This repository is a public reference point for Gaofumei and its information, articles, knowledge-sharing content, and related reference materials.
 
-The website and this repository are independently hosted. This repository is not a GitHub Pages mirror of the website.
+The website is independently hosted. This repository is not a GitHub Pages mirror of the website.
 
 ## About
 
-Use this section to describe the website accurately:
+Gaofumei is an information, article, and knowledge-sharing website.
 
-- **Website:** https://www.gaofumei.net/
-- **Project:** Gaofumei
-- **Repository purpose:** Public website information and related documentation
+This repository organizes public documentation and selected reference resources related to the website. Specific subject areas will be documented only when confirmed by the published content.
 
-Replace this short description with a concise, factual explanation of the website's actual subject, audience, and services before publishing.
+## Official Website
 
-## Website
+Visit [Gaofumei](https://www.gaofumei.net/) for the website's published content.
 
-Visit the official website:
+## Resource Index
 
-[https://www.gaofumei.net/](https://www.gaofumei.net/)
+- [Website Overview](docs/website/README.md)
+- [Article Index](docs/articles/README.md)
+- [Knowledge Resources](docs/knowledge/README.md)
+- [Frequently Asked Questions](docs/faq/README.md)
 
-## Documentation
+These files are documentation entry points. Add links to individual articles only after verifying their exact URLs and subject matter.
 
-- [Website overview](docs/website/README.md)
-- [Public resources](docs/resources/README.md)
-- [Frequently asked questions](docs/faq/README.md)
-- [Examples and reference materials](examples/README.md)
+## Article References
 
-Add only sections that match the website's actual content. Remove or replace any placeholder section that is not relevant.
+When adding a reference to an article on the official website, include:
 
-## Related Pages
+- The exact published article title
+- A short, factual summary
+- The canonical public URL
+- The date reviewed or last updated, where useful
 
-Add links here to real, publicly accessible pages on the official website. Use descriptive link text and ensure each link matches the destination page.
+Do not copy entire articles into this repository. Prefer a useful summary and a link to the original article.
 
-- [Official website](https://www.gaofumei.net/)
+## Documentation Standards
 
-## Documentation Principles
-
-- Keep descriptions accurate and up to date.
-- Link only to relevant, working pages.
-- Clearly distinguish verified information from examples or plans.
-- Do not publish passwords, API keys, private server information, or personal data.
-- Do not claim that a page, feature, or service exists unless it has been verified.
+- Use accurate titles and summaries.
+- Link only to relevant, publicly accessible pages.
+- Clearly distinguish facts, opinions, and editorial commentary where relevant.
+- Keep references current and correct broken links.
+- Do not publish private information, credentials, or material you do not have permission to share.
+- Do not claim that the website covers a topic unless the published content confirms it.
 
 ## Contributing
 
-Corrections and useful documentation improvements are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Corrections and useful improvements to the resource index are welcome.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Project Information
 
-- Project name: Gaofumei
+- Project: Gaofumei
+- Type: Website reference and knowledge-resource index
 - Official website: https://www.gaofumei.net/
-- Hosting: Independent website; not hosted by GitHub Pages
+- Hosting: Independent website, not GitHub Pages
